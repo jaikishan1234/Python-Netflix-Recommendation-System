@@ -1,0 +1,390 @@
+[
+  {
+    "title": "Interstellar",
+    "description": "A team of astronauts travels through a wormhole to search for a habitable planet as Earth faces environmental collapse."
+  },
+  {
+    "title": "The Martian",
+    "description": "An astronaut stranded on Mars uses science, engineering, and careful planning to survive until a rescue mission can reach him."
+  },
+  {
+    "title": "Gravity",
+    "description": "Two astronauts struggle to survive after an accident leaves them drifting in orbit with limited oxygen and few ways to return home."
+  },
+  {
+    "title": "Inception",
+    "description": "A specialist who enters people's dreams is hired to plant an idea in a target's mind during a complex mission."
+  },
+  {
+    "title": "The Matrix",
+    "description": "A computer programmer discovers that the world he knows is a simulation controlled by machines and joins a rebellion."
+  },
+  {
+    "title": "Jurassic Park",
+    "description": "Scientists use genetic engineering to create a dinosaur theme park, but a systems failure lets the prehistoric animals escape."
+  },
+  {
+    "title": "Finding Nemo",
+    "description": "A cautious clownfish crosses the ocean to find his missing son and meets many unusual sea creatures along the way."
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "description": "A banker serving a life sentence builds a friendship with another inmate and quietly holds on to hope for freedom."
+  },
+  {
+    "title": "The Dark Knight",
+    "description": "A masked hero tries to protect a city from a criminal mastermind who spreads fear and forces difficult moral choices."
+  },
+  {
+    "title": "The Imitation Game",
+    "description": "A mathematician and codebreaker leads a team trying to decipher encrypted enemy communications during World War II."
+  },
+  {
+    "title": "Avatar",
+    "description": "A former marine joins an expedition to a distant moon, where he becomes connected to its indigenous people and threatened ecosystem."
+  },
+  {
+    "title": "Titanic",
+    "description": "Two young passengers from different social backgrounds fall in love during a voyage aboard a famous ocean liner."
+  },
+  {
+    "title": "The Lion King",
+    "description": "A young lion prince faces loss and exile before returning to reclaim his place and restore balance to his kingdom."
+  },
+  {
+    "title": "Toy Story",
+    "description": "A cowboy doll worries about being replaced when a new space ranger toy arrives in the bedroom of their young owner."
+  },
+  {
+    "title": "Up",
+    "description": "An elderly widower ties balloons to his house and travels toward a remote destination, unexpectedly accompanied by a young scout."
+  },
+  {
+    "title": "Coco",
+    "description": "A music-loving boy enters the Land of the Dead and uncovers secrets about his family while pursuing his dream."
+  },
+  {
+    "title": "Inside Out",
+    "description": "Personified emotions inside a young girl's mind try to help her adjust to a major change in her life."
+  },
+  {
+    "title": "Ratatouille",
+    "description": "A rat with an extraordinary sense of smell secretly helps a young kitchen worker pursue a career in a Paris restaurant."
+  },
+  {
+    "title": "The Incredibles",
+    "description": "A family of superheroes attempts to live quietly among ordinary people but must reunite when a dangerous threat appears."
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "A teenager gains spider-like powers and meets heroes from alternate dimensions while learning what it means to be a hero."
+  },
+  {
+    "title": "Doctor Strange",
+    "description": "A brilliant surgeon seeks a cure after an accident and discovers mystical arts that protect reality from supernatural threats."
+  },
+  {
+    "title": "Black Panther",
+    "description": "A new king must protect his technologically advanced African nation while confronting a rival with a claim to the throne."
+  },
+  {
+    "title": "Iron Man",
+    "description": "An industrial inventor builds a powerful armored suit and uses his technology to confront threats connected to his past."
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "description": "A group of unlikely space criminals must cooperate to protect a powerful artifact from a ruthless enemy."
+  },
+  {
+    "title": "Star Wars: A New Hope",
+    "description": "A young farm boy joins rebels, a smuggler, and a mentor to help fight a galactic empire and rescue a captured leader."
+  },
+  {
+    "title": "The Empire Strikes Back",
+    "description": "Rebel heroes face a powerful empire while a young warrior trains with a mysterious master to understand the Force."
+  },
+  {
+    "title": "Dune",
+    "description": "A young noble travels to a desert planet that produces a valuable substance and becomes involved in political and ecological conflict."
+  },
+  {
+    "title": "Blade Runner 2049",
+    "description": "A futuristic investigator uncovers a secret that could reshape the relationship between humans and artificial beings."
+  },
+  {
+    "title": "Arrival",
+    "description": "A linguist works to communicate with alien visitors whose arrival creates global tension and raises questions about time."
+  },
+  {
+    "title": "Ex Machina",
+    "description": "A programmer visits a secluded research facility to evaluate an advanced artificial intelligence with humanlike behavior."
+  },
+  {
+    "title": "Her",
+    "description": "A lonely writer develops an emotional relationship with an intelligent operating system designed to adapt to its user."
+  },
+  {
+    "title": "The Social Network",
+    "description": "A university student creates a social networking platform, leading to rapid growth, business conflict, and legal disputes."
+  },
+  {
+    "title": "Moneyball",
+    "description": "A baseball manager and an analyst use statistical evidence to build a competitive team despite a limited budget."
+  },
+  {
+    "title": "The Pursuit of Happyness",
+    "description": "A struggling father works through financial hardship and homelessness while trying to build a stable future for his young son."
+  },
+  {
+    "title": "Forrest Gump",
+    "description": "A kind-hearted man recounts his unexpected experiences across several decades of American history and personal relationships."
+  },
+  {
+    "title": "Good Will Hunting",
+    "description": "A gifted young janitor with a talent for mathematics receives guidance from a therapist while confronting painful personal experiences."
+  },
+  {
+    "title": "A Beautiful Mind",
+    "description": "A brilliant mathematician pursues academic success while navigating serious personal challenges and the demands of his work."
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "description": "A hotel concierge and his young lobby assistant become involved in a stolen painting, a family inheritance, and a European mystery."
+  },
+  {
+    "title": "Knives Out",
+    "description": "A detective investigates the suspicious death of a wealthy novelist while questioning a family full of secrets and conflicting motives."
+  },
+  {
+    "title": "Sherlock Holmes",
+    "description": "A brilliant detective and his loyal partner investigate a conspiracy involving mysterious crimes and an influential adversary."
+  },
+  {
+    "title": "The Prestige",
+    "description": "Two rival stage magicians become consumed by competition as each tries to uncover the other's most extraordinary illusion."
+  },
+  {
+    "title": "Shutter Island",
+    "description": "A federal investigator visits a remote psychiatric hospital to investigate a patient's disappearance and encounters unsettling clues."
+  },
+  {
+    "title": "Se7en",
+    "description": "Two detectives pursue a serial killer whose crimes are arranged around a disturbing moral theme."
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "description": "A trainee investigator seeks insight from an imprisoned killer to help track another dangerous murderer."
+  },
+  {
+    "title": "The Conjuring",
+    "description": "Paranormal investigators help a family experiencing frightening events in an isolated farmhouse."
+  },
+  {
+    "title": "A Quiet Place",
+    "description": "A family tries to survive in a world where creatures hunt by sound, forcing everyone to communicate in silence."
+  },
+  {
+    "title": "Get Out",
+    "description": "A young photographer visits his partner's family estate and gradually discovers disturbing secrets behind their welcoming behavior."
+  },
+  {
+    "title": "The Sixth Sense",
+    "description": "A child psychologist works with a young boy who claims to see dead people and struggles to understand his experiences."
+  },
+  {
+    "title": "Home Alone",
+    "description": "A resourceful child accidentally left behind during a family trip defends his house from two burglars using improvised traps."
+  },
+  {
+    "title": "Groundhog Day",
+    "description": "A cynical television presenter relives the same day repeatedly and gradually changes how he treats the people around him."
+  },
+  {
+    "title": "Back to the Future",
+    "description": "A teenager travels to the past in a modified car and must help his parents meet to preserve his own future."
+  },
+  {
+    "title": "The Truman Show",
+    "description": "An ordinary man begins to suspect that his seemingly normal life is being staged and watched by a hidden audience."
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "description": "A soldier caught in a time loop repeatedly relives a battle against invading aliens while learning how to change its outcome."
+  },
+  {
+    "title": "Source Code",
+    "description": "A soldier repeatedly experiences the final minutes of a commuter train passenger's life to identify a bomber."
+  },
+  {
+    "title": "Looper",
+    "description": "A hired killer who eliminates targets sent from the future must confront an older version of himself."
+  },
+  {
+    "title": "Minority Report",
+    "description": "A police officer in a future society where crimes are predicted becomes a suspect in a murder he has not committed."
+  },
+  {
+    "title": "Ready Player One",
+    "description": "A teenager competes in a vast virtual reality world to find a hidden prize left by its creator."
+  },
+  {
+    "title": "WALL-E",
+    "description": "A small waste-collecting robot on an abandoned Earth discovers a plant and begins a journey that could bring humans home."
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "description": "A young Viking befriends a dragon and challenges his village's long-standing belief that dragons are enemies."
+  },
+  {
+    "title": "Kung Fu Panda",
+    "description": "An enthusiastic panda unexpectedly trains as a martial arts warrior to protect his valley from a powerful enemy."
+  },
+  {
+    "title": "The Lego Movie",
+    "description": "An ordinary construction worker is mistaken for a prophesied hero and joins a team trying to stop a controlling villain."
+  },
+  {
+    "title": "The Secret Life of Walter Mitty",
+    "description": "A quiet photo editor embarks on a real-world adventure to find a missing image and discovers courage beyond his daydreams."
+  },
+  {
+    "title": "Wild",
+    "description": "A woman undertakes a long solo hiking journey to reflect on grief, personal mistakes, and rebuilding her life."
+  },
+  {
+    "title": "Into the Wild",
+    "description": "A recent graduate leaves conventional life behind and travels across North America seeking freedom and meaning in nature."
+  },
+  {
+    "title": "Life of Pi",
+    "description": "A teenager survives a shipwreck and shares a lifeboat with a Bengal tiger during a long journey across the ocean."
+  },
+  {
+    "title": "Cast Away",
+    "description": "A stranded logistics worker struggles to survive on a deserted island and find a way back to civilization."
+  },
+  {
+    "title": "The Revenant",
+    "description": "A frontiersman badly injured in the wilderness struggles to survive and pursue the men who abandoned him."
+  },
+  {
+    "title": "Mission: Impossible - Fallout",
+    "description": "An elite agent and his team race to recover stolen nuclear material while navigating betrayal and a dangerous conspiracy."
+  },
+  {
+    "title": "Skyfall",
+    "description": "A secret agent returns to protect his intelligence agency after an attack exposes its secrets and threatens its leadership."
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "description": "A drifter joins a rebel driver transporting captives across a harsh desert while pursued by a violent warlord."
+  },
+  {
+    "title": "John Wick",
+    "description": "A retired assassin returns to the criminal underworld after a personal tragedy draws him into a dangerous cycle of revenge."
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "description": "An experienced naval aviator trains a group of elite pilots for a risky mission while confronting his past."
+  },
+  {
+    "title": "The King's Speech",
+    "description": "A future monarch works with an unconventional speech therapist to overcome a stammer before addressing the nation during wartime."
+  },
+  {
+    "title": "Hidden Figures",
+    "description": "Three Black women mathematicians make essential contributions to an early American spaceflight program while facing discrimination."
+  },
+  {
+    "title": "Apollo 13",
+    "description": "Astronauts and mission controllers work together to bring a damaged spacecraft safely back to Earth."
+  },
+  {
+    "title": "October Sky",
+    "description": "A teenager from a coal-mining town becomes fascinated with rockets and pursues science despite limited resources and local expectations."
+  },
+  {
+    "title": "The Big Short",
+    "description": "Several investors recognize warning signs in the housing market and bet against financial products before a major crisis."
+  },
+  {
+    "title": "Catch Me If You Can",
+    "description": "A young con artist forges identities and evades an FBI agent while pursuing an increasingly elaborate life of deception."
+  },
+  {
+    "title": "The Intern",
+    "description": "A retired widower becomes an intern at a growing online fashion company and forms an unexpected friendship with its founder."
+  },
+  {
+    "title": "Chef",
+    "description": "A chef leaves a frustrating restaurant job and starts a food truck, rebuilding family relationships while rediscovering his creativity."
+  },
+  {
+    "title": "Julie & Julia",
+    "description": "A young office worker cooks her way through a famous chef's recipes while the chef's own early career unfolds in parallel."
+  },
+  {
+    "title": "The Hundred-Foot Journey",
+    "description": "An Indian family opens a restaurant in a French village and competes with a celebrated restaurant across the road."
+  },
+  {
+    "title": "Zindagi Na Milegi Dobara",
+    "description": "Three friends take a road trip through Spain that challenges their fears, strengthens their friendship, and changes their priorities."
+  },
+  {
+    "title": "3 Idiots",
+    "description": "Three engineering students navigate academic pressure, friendship, and family expectations while questioning how education measures success."
+  },
+  {
+    "title": "Dangal",
+    "description": "A former wrestler trains his daughters to compete in wrestling despite social expectations and obstacles."
+  },
+  {
+    "title": "Taare Zameen Par",
+    "description": "An art-loving schoolboy struggles with conventional classroom expectations until a teacher recognizes his learning difficulties and creativity."
+  },
+  {
+    "title": "Swades",
+    "description": "An Indian scientist working abroad returns to his village and becomes involved in efforts to improve the local community."
+  },
+  {
+    "title": "Lagaan",
+    "description": "Villagers challenge colonial authorities to a cricket match as a way to contest an oppressive tax burden."
+  },
+  {
+    "title": "Andhadhun",
+    "description": "A pianist becomes entangled in a murder mystery after a chain of unexpected events puts his apparent blindness at the center of a crime."
+  },
+  {
+    "title": "Drishyam",
+    "description": "A family man uses careful planning and knowledge of films to protect his family after an unexpected crime."
+  },
+  {
+    "title": "Queen",
+    "description": "A young woman travels alone on her planned honeymoon after her wedding is called off and discovers independence and confidence."
+  },
+  {
+    "title": "Chak De! India",
+    "description": "A disgraced former hockey player coaches a diverse women's national team as they work toward an international championship."
+  },
+  {
+    "title": "The Lunchbox",
+    "description": "A mistaken lunch delivery connects a lonely office worker and a neglected housewife through a series of personal letters."
+  },
+  {
+    "title": "Kahaani",
+    "description": "A pregnant woman arrives in Kolkata searching for her missing husband and uncovers a mystery with unexpected dangers."
+  },
+  {
+    "title": "Piku",
+    "description": "A practical architect travels with her aging, eccentric father and a driver, leading to comic arguments and family reflection."
+  },
+  {
+    "title": "Bajrangi Bhaijaan",
+    "description": "A kind-hearted Indian man helps a mute Pakistani girl separated from her family travel safely back home."
+  },
+  {
+    "title": "Super 30",
+    "description": "A mathematics teacher starts a program to help students from disadvantaged backgrounds prepare for competitive engineering entrance exams."
+  }
+]
