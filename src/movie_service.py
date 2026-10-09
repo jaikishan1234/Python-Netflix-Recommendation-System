@@ -11,20 +11,21 @@ class MovieService:
         self.jsonMapper = json_mapper
         self.moviesEmbedding = []
 
+    
     def initializeMovies(self):
+        self.moviesEmbedding.clear()
+
         resource = (
             Path(__file__).resolve().parents[1]
             / "data"
             / "movies.json"
         )
 
-
-        input_stream = resource.open("r", encoding="utf-8")
-
-        movie_data_list = [
-            MovieData(movie_data["title"], movie_data["description"])
-            for movie_data in self.jsonMapper.load(input_stream)
-        ]
+        with resource.open("r", encoding="utf-8") as input_stream:
+            movie_data_list = [
+                MovieData(movie_data["title"], movie_data["description"])
+                for movie_data in self.jsonMapper.load(input_stream)
+            ]
 
         for movie_data in movie_data_list:
             embedding = self.embeddingModel.embed(
@@ -39,15 +40,10 @@ class MovieService:
 
             self.moviesEmbedding.append(movie)
 
-        input_stream.close()
-
         print(
             str(len(self.moviesEmbedding))
             + " movies loaded with embeddings."
         )
-
-        for movie in self.moviesEmbedding:
-            print(movie.getEmbedding())
 
     def search(self, query):
         user_query_embedding = self.embeddingModel.embed(query)
